@@ -1,5 +1,5 @@
 .venv/
-*.json
-*.csv
+#*.json
+#*.csv
 pycache/
 *.pyc

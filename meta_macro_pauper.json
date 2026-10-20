@@ -1,0 +1,160 @@
+{
+    "AGGRO": [
+        [
+            "Burn",
+            "11%"
+        ],
+        [
+            "Affinity",
+            "10%"
+        ],
+        [
+            "Mono Blue Aggro",
+            "6%"
+        ],
+        [
+            "Red Deck Wins",
+            "6%"
+        ],
+        [
+            "Elves",
+            "5%"
+        ],
+        [
+            "Weenie White",
+            "4%"
+        ],
+        [
+            "Gruul Aggro",
+            "3%"
+        ],
+        [
+            "Aura Aggro",
+            "3%"
+        ],
+        [
+            "Boros Aggro",
+            "2%"
+        ],
+        [
+            "Jund",
+            "2%"
+        ],
+        [
+            "Rakdos Aggro",
+            "1%"
+        ],
+        [
+            "Mono Black Aggro",
+            "1%"
+        ],
+        [
+            "Mardu Aggro",
+            "1%"
+        ],
+        [
+            "Orzhov Aggro",
+            "0.9%"
+        ],
+        [
+            "Mono Green Aggro",
+            "0.4%"
+        ],
+        [
+            "Hot Dogs",
+            "0.4%"
+        ],
+        [
+            "Zoo",
+            "0.4%"
+        ],
+        [
+            "Infect",
+            "0.3%"
+        ],
+        [
+            "Slivers",
+            "0.1%"
+        ],
+        [
+            "Other - Aggro",
+            "0.3%"
+        ]
+    ],
+    "CONTROL": [
+        [
+            "Dimir Control",
+            "11%"
+        ],
+        [
+            "Urzatron",
+            "7%"
+        ],
+        [
+            "Ephemerate",
+            "4%"
+        ],
+        [
+            "Golgari / Jund Garden",
+            "3%"
+        ],
+        [
+            "Mono Blue Terror",
+            "2%"
+        ],
+        [
+            "UR Control",
+            "0.9%"
+        ],
+        [
+            "Gates",
+            "0.7%"
+        ],
+        [
+            "Other - Control",
+            "0.5%"
+        ]
+    ],
+    "COMBO": [
+        [
+            "Balustrade Spy",
+            "6%"
+        ],
+        [
+            "RG Ruby Storm",
+            "2%"
+        ],
+        [
+            "Turbo Fog",
+            "2%"
+        ],
+        [
+            "Tireless Tribe",
+            "1%"
+        ],
+        [
+            "Walls Combo",
+            "0.5%"
+        ],
+        [
+            "Persistent Petitioners",
+            "0.4%"
+        ],
+        [
+            "Poison Storm",
+            "0.3%"
+        ],
+        [
+            "Reanimator",
+            "0.3%"
+        ],
+        [
+            "Goblins",
+            "0.1%"
+        ],
+        [
+            "Other - Combo",
+            "0.3%"
+        ]
+    ]
+}
