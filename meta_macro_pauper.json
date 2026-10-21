@@ -6,14 +6,14 @@
         ],
         [
             "Affinity",
-            "10%"
-        ],
-        [
-            "Mono Blue Aggro",
-            "6%"
+            "9%"
         ],
         [
             "Red Deck Wins",
+            "6%"
+        ],
+        [
+            "Mono Blue Aggro",
             "6%"
         ],
         [
@@ -21,15 +21,15 @@
             "5%"
         ],
         [
-            "Weenie White",
-            "4%"
-        ],
-        [
             "Gruul Aggro",
             "3%"
         ],
         [
             "Aura Aggro",
+            "3%"
+        ],
+        [
+            "Weenie White",
             "3%"
         ],
         [
@@ -45,36 +45,36 @@
             "1%"
         ],
         [
-            "Mono Black Aggro",
+            "Orzhov Aggro",
             "1%"
+        ],
+        [
+            "Mono Black Aggro",
+            "0.9%"
         ],
         [
             "Mardu Aggro",
-            "1%"
-        ],
-        [
-            "Orzhov Aggro",
             "0.9%"
         ],
         [
             "Mono Green Aggro",
-            "0.4%"
-        ],
-        [
-            "Hot Dogs",
-            "0.4%"
+            "0.7%"
         ],
         [
             "Zoo",
-            "0.4%"
-        ],
-        [
-            "Infect",
             "0.3%"
         ],
         [
             "Slivers",
-            "0.1%"
+            "0.3%"
+        ],
+        [
+            "Hot Dogs",
+            "0.2%"
+        ],
+        [
+            "Infect",
+            "0.2%"
         ],
         [
             "Other - Aggro",
@@ -84,18 +84,18 @@
     "CONTROL": [
         [
             "Dimir Control",
-            "11%"
+            "13%"
         ],
         [
             "Urzatron",
             "7%"
         ],
         [
-            "Ephemerate",
-            "4%"
+            "Golgari / Jund Garden",
+            "3%"
         ],
         [
-            "Golgari / Jund Garden",
+            "Ephemerate",
             "3%"
         ],
         [
@@ -103,16 +103,16 @@
             "2%"
         ],
         [
-            "UR Control",
+            "Gates",
             "0.9%"
         ],
         [
-            "Gates",
+            "UR Control",
             "0.7%"
         ],
         [
             "Other - Control",
-            "0.5%"
+            "0.3%"
         ]
     ],
     "COMBO": [
@@ -121,11 +121,11 @@
             "6%"
         ],
         [
-            "RG Ruby Storm",
+            "Turbo Fog",
             "2%"
         ],
         [
-            "Turbo Fog",
+            "RG Ruby Storm",
             "2%"
         ],
         [
@@ -134,11 +134,11 @@
         ],
         [
             "Walls Combo",
-            "0.5%"
+            "0.7%"
         ],
         [
             "Persistent Petitioners",
-            "0.4%"
+            "0.5%"
         ],
         [
             "Poison Storm",
@@ -149,12 +149,8 @@
             "0.3%"
         ],
         [
-            "Goblins",
-            "0.1%"
-        ],
-        [
             "Other - Combo",
-            "0.3%"
+            "0.2%"
         ]
     ]
 }

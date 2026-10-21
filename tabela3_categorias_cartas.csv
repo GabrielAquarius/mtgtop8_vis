@@ -1,0 +1,926 @@
+﻿Card_ID,Card,Category,Threat_Type
+1,Abandon Attachments,OTHER SPELLS,None
+2,Abjure,OTHER SPELLS,A
+3,Abraded Bluffs,LANDS,None
+4,Abundant Growth,OTHER SPELLS,None
+5,Abundant Harvest,OTHER SPELLS,None
+6,Accumulated Knowledge,OTHER SPELLS,None
+7,Accursed Marauder,CREATURES,STR
+8,Acorn Harvest,OTHER SPELLS,None
+9,Act of Treason,SIDEBOARDS,None
+10,Adventurer's Inn,LANDS,None
+11,Agony Warp,OTHER SPELLS,STR
+12,Akroan Skyguard,CREATURES,None
+13,Alms of the Vein,OTHER SPELLS,None
+14,Alpine Meadow,LANDS,None
+15,Ambitious Assault,OTHER SPELLS,None
+16,An Offer You Can't Refuse,OTHER SPELLS,A
+17,Ancestral Anger,OTHER SPELLS,None
+18,Ancestral Mask,OTHER SPELLS,None
+19,Anchovy & Banana Pizza,OTHER SPELLS,None
+20,Ancient Den,LANDS,None
+21,Ancient Grudge,SIDEBOARDS,STR
+22,Ancient Stirrings,OTHER SPELLS,None
+23,Angelic Gift,OTHER SPELLS,None
+24,Annoyed Altisaur,CREATURES,None
+25,Annul,SIDEBOARDS,A
+26,Anoint with Affliction,SIDEBOARDS,STR
+27,Apostle's Blessing,OTHER SPELLS,None
+28,Aquastrand Spider,CREATURES,None
+29,Aqueous Form,OTHER SPELLS,None
+30,Arashin Cleric,SIDEBOARDS,None
+31,Arbor Elf,CREATURES,None
+32,Arcane Denial,OTHER SPELLS,A
+33,Archaeomancer,CREATURES,None
+34,Archaeomender,CREATURES,None
+35,Ardent Elementalist,CREATURES,None
+36,Ardent Recruit,CREATURES,None
+37,Armadillo Cloak,OTHER SPELLS,None
+38,Arms of Hadar,OTHER SPELLS,BW
+39,Artful Dodge,OTHER SPELLS,None
+40,Ash Barrens,LANDS,None
+41,Ashen-Skin Zubera,CREATURES,HD
+42,Ashes to Ashes,SIDEBOARDS,STR
+43,Ashnod's Altar,OTHER SPELLS,None
+44,Assault Strobe,OTHER SPELLS,None
+45,Augur of Bolas,CREATURES,None
+46,Aura Gnarlid,CREATURES,None
+47,Aurora Eidolon,CREATURES,None
+48,Avenging Hunter,CREATURES,None
+49,Axebane Guardian,CREATURES,None
+50,Azorius Chancery,LANDS,None
+51,Azure Fleet Admiral,CREATURES,None
+52,Baleful Strix,CREATURES,None
+53,Balustrade Spy,CREATURES,None
+54,Banishing Knack,OTHER SPELLS,None
+55,Bannerhide Krushok,CREATURES,None
+56,Barrels of Blasting Jelly,OTHER SPELLS,STR
+57,Barren Moor,LANDS,None
+58,Barrow Naughty,CREATURES,None
+59,Basilisk Gate,LANDS,None
+60,Battle Screech,OTHER SPELLS,None
+61,Beastrider Vanguard,CREATURES,None
+62,Beckon Apparition,SIDEBOARDS,GH
+63,Bedeck / Bedazzle,OTHER SPELLS,STR
+64,Befoul,SIDEBOARDS,STR
+65,Behold the Multiverse,OTHER SPELLS,None
+66,Bellowing Crier,CREATURES,None
+67,Bender's Waterskin,OTHER SPELLS,None
+68,Benefaction of Rhonas,OTHER SPELLS,None
+69,Benevolent Blessing,OTHER SPELLS,None
+70,Bequeathal,OTHER SPELLS,None
+71,Bestial Incursion,SIDEBOARDS,None
+72,Big Score,OTHER SPELLS,None
+73,Bind the Monster,SIDEBOARDS,STR
+74,Birchlore Rangers,CREATURES,None
+75,Bitter Reunion,OTHER SPELLS,None
+76,Black Dragon Gate,LANDS,None
+77,Black Mage's Rod,OTHER SPELLS,None
+78,Blacksmith's Skill,OTHER SPELLS,None
+79,Blazing Crescendo,SIDEBOARDS,None
+80,Blessed Ghoul,CREATURES,None
+81,Blight Mamba,CREATURES,None
+82,Blood Fountain,OTHER SPELLS,None
+83,Bloodfell Caves,LANDS,None
+84,Bloodrite Invoker,CREATURES,None
+85,Bloodthrone Vampire,CREATURES,None
+86,Blossombind,OTHER SPELLS,None
+87,Blue Elemental Blast,SIDEBOARDS,A
+88,Boarding Party,CREATURES,None
+89,Bogwater Lumaret,CREATURES,HD
+90,Bojuka Bog,LANDS,GH
+91,Bonder's Ornament,OTHER SPELLS,None
+92,Boomerang,OTHER SPELLS,None
+93,Boros Garrison,LANDS,None
+94,Boulderbranch Golem,CREATURES,None
+95,Bountiful Landscape,LANDS,None
+96,Brainstorm,OTHER SPELLS,None
+97,Bramble Wurm,CREATURES,None
+98,Breath Weapon,OTHER SPELLS,BW
+99,Breathless Knight,CREATURES,None
+100,Brinebarrow Intruder,CREATURES,None
+101,Bring the Ending,SIDEBOARDS,A
+102,Bristling Backwoods,LANDS,None
+103,Bump in the Night,OTHER SPELLS,None
+104,Burning-Tree Emissary,CREATURES,None
+105,Bushwhack,OTHER SPELLS,STR
+106,Cabaretti Courtyard,LANDS,None
+107,Call Damage Control,OTHER SPELLS,None
+108,Campfire,OTHER SPELLS,None
+109,Candy Trail,OTHER SPELLS,None
+110,Carrion Feeder,CREATURES,None
+111,Carrot Cake,OTHER SPELLS,None
+112,Cartouche of Solidarity,OTHER SPELLS,None
+113,Cartouche of Strength,SIDEBOARDS,STR
+114,Cast Down,OTHER SPELLS,STR
+115,Cast into the Fire,OTHER SPELLS,STR
+116,Cathartic Reunion,OTHER SPELLS,None
+117,Cauldron Familiar,CREATURES,None
+118,Caustic Exhale,SIDEBOARDS,STR
+119,Chain Lightning,OTHER SPELLS,STR
+120,Champion of the Flame,CREATURES,None
+121,Chittering Rats,CREATURES,HD
+122,Cho-Manno's Blessing,SIDEBOARDS,None
+123,Chromatic Star,OTHER SPELLS,None
+124,Chrome Courier,CREATURES,None
+125,Circle of Protection: Blue,SIDEBOARDS,None
+126,Circle of Protection: Red,SIDEBOARDS,None
+127,Circle of the Land Druid,CREATURES,None
+128,Circular Logic,OTHER SPELLS,A
+129,Citadel Gate,LANDS,None
+130,Cleansing Wildfire,OTHER SPELLS,STR
+131,Cliffgate,LANDS,None
+132,Clockwork Percussionist,CREATURES,None
+133,Clowning Around,OTHER SPELLS,None
+134,Coalition Honor Guard,SIDEBOARDS,None
+135,Coffin Purge,SIDEBOARDS,GH
+136,Cogwork Wrestler,CREATURES,None
+137,Colossal Dreadmask,OTHER SPELLS,None
+138,Commune with Spirits,OTHER SPELLS,None
+139,Commune with the Gods,OTHER SPELLS,None
+140,Compulsive Research,OTHER SPELLS,None
+141,Conclave Phalanx,SIDEBOARDS,None
+142,Condescend,OTHER SPELLS,A
+143,Conduit Pylons,LANDS,None
+144,Confusticate and Bebother,OTHER SPELLS,A
+145,Conjurer's Bauble,SIDEBOARDS,None
+146,Consider,OTHER SPELLS,None
+147,Contagious Vorrac,CREATURES,None
+148,Contaminated Aquifer,LANDS,None
+149,Contaminated Ground,SIDEBOARDS,STR
+150,Contaminated Landscape,LANDS,None
+151,Contentious Plan,OTHER SPELLS,None
+152,Corrupt,SIDEBOARDS,STR
+153,Corrupted Conviction,OTHER SPELLS,None
+154,Counterspell,OTHER SPELLS,A
+155,Crash Through,OTHER SPELLS,None
+156,Crimson Acolyte,SIDEBOARDS,None
+157,Crimson Fleet Commodore,CREATURES,None
+158,Crop Rotation,OTHER SPELLS,None
+159,Crossover Collaboration,OTHER SPELLS,None
+160,Crude Bent Blade,OTHER SPELLS,None
+161,Cry of Contrition,OTHER SPELLS,HD
+162,Cryogen Relic,OTHER SPELLS,None
+163,Cryoshatter,OTHER SPELLS,STR
+164,Crypt Incursion,OTHER SPELLS,GH
+165,Crypt Rats,CREATURES,BW
+166,Crypt Sliver,SIDEBOARDS,None
+167,Cryptic Serpent,CREATURES,None
+168,Crystal Grotto,LANDS,None
+169,Cuombajj Witches,CREATURES,STR
+170,Curfew,SIDEBOARDS,None
+171,Cut Down,OTHER SPELLS,STR
+172,Dark Ritual,OTHER SPELLS,None
+173,Dark Withering,OTHER SPELLS,STR
+174,Darkness,OTHER SPELLS,None
+175,Darksteel Citadel,LANDS,None
+176,Dauthi Slayer,CREATURES,None
+177,Dawn Charm,SIDEBOARDS,None
+178,Dawnbringer Cleric,CREATURES,STR
+179,Daybreak Chimera,CREATURES,None
+180,Debt to the Kami,OTHER SPELLS,STR
+181,Deduce,OTHER SPELLS,None
+182,Deem Inferior,OTHER SPELLS,None
+183,Deep Analysis,OTHER SPELLS,None
+184,Defile,OTHER SPELLS,STR
+185,Deglamer,SIDEBOARDS,STR
+186,Delver of Secrets,CREATURES,None
+187,Demand Answers,OTHER SPELLS,None
+188,Deprive,OTHER SPELLS,A
+189,Desert,LANDS,None
+190,Desperate Ritual,OTHER SPELLS,None
+191,Destroy Evil,OTHER SPELLS,STR
+192,Devious Cover-Up,OTHER SPELLS,A
+193,Devoted Druid,CREATURES,None
+194,Diabolic Edict,SIDEBOARDS,STR
+195,Dimension X,LANDS,None
+196,Dimir Aqueduct,LANDS,None
+197,Dinrova Horror,CREATURES,HD
+198,Disdainful Stroke,SIDEBOARDS,A
+199,Dispatch,OTHER SPELLS,STR
+200,Dispel,OTHER SPELLS,A
+201,Disrupt,OTHER SPELLS,A
+202,Distant Melody,OTHER SPELLS,None
+203,Disturbed Burial,SIDEBOARDS,None
+204,Dizzy Spell,OTHER SPELLS,None
+205,Double Cleave,OTHER SPELLS,None
+206,Dragon Wings,OTHER SPELLS,None
+207,Dread Linnorm,CREATURES,None
+208,Dread Return,OTHER SPELLS,None
+209,Dream Stalker,CREATURES,None
+210,Drift of Phantasms,CREATURES,None
+211,Dripping-Tongue Zubera,CREATURES,None
+212,Drossforge Bridge,LANDS,None
+213,Drown in Sorrow,OTHER SPELLS,BW
+214,Drownyard Lurker,CREATURES,None
+215,Dry Spell,SIDEBOARDS,BW
+216,Dueling Rapier,OTHER SPELLS,None
+217,Duress,OTHER SPELLS,HD
+218,Duskshell Crawler,CREATURES,None
+219,Dust to Dust,SIDEBOARDS,STR
+220,Eagles of the North,CREATURES,None
+221,Earth Rift,SIDEBOARDS,STR
+222,Echoing Decay,OTHER SPELLS,BW
+223,Echoing Truth,OTHER SPELLS,None
+224,Eldrazi Repurposer,CREATURES,None
+225,Electric Revelation,OTHER SPELLS,None
+226,Electrickery,OTHER SPELLS,BW
+227,Elite Interceptor,CREATURES,None
+228,Elven Farsight,OTHER SPELLS,None
+229,Elves of Deep Shadow,CREATURES,None
+230,Elvish Herder,SIDEBOARDS,None
+231,Elvish Mystic,CREATURES,None
+232,Elvish Vanguard,CREATURES,None
+233,Embiggen,OTHER SPELLS,None
+234,Embrace the Paradox,OTHER SPELLS,None
+235,Emerge Unscathed,OTHER SPELLS,None
+236,End the Festivities,OTHER SPELLS,BW
+237,Energy Refractor,OTHER SPELLS,None
+238,Entourage of Trest,CREATURES,None
+239,Envelop,OTHER SPELLS,A
+240,Ephemerate,OTHER SPELLS,None
+241,Escape Tunnel,LANDS,None
+242,Essence Harvest,OTHER SPELLS,None
+243,Essence Scatter,OTHER SPELLS,A
+244,Essence Warden,CREATURES,None
+245,Ethereal Armor,OTHER SPELLS,None
+246,Ethereal Haze,OTHER SPELLS,None
+247,Eureka Moment,OTHER SPELLS,None
+248,Everflowing Chalice,OTHER SPELLS,None
+249,Evil Presence,SIDEBOARDS,STR
+250,Eviscerator's Insight,OTHER SPELLS,None
+251,Exclude,SIDEBOARDS,A
+252,Exhume,OTHER SPELLS,None
+253,Expedition Map,OTHER SPELLS,None
+254,Experiment One,CREATURES,None
+255,Experimental Augury,OTHER SPELLS,None
+256,Experimental Synthesizer,OTHER SPELLS,None
+257,Explore,OTHER SPELLS,None
+258,Extract a Confession,OTHER SPELLS,STR
+259,Faerie Macabre,CREATURES,GH
+260,Faerie Miscreant,CREATURES,None
+261,Faerie Seer,CREATURES,None
+262,Faerie Trickery,SIDEBOARDS,A
+263,Faithless Looting,OTHER SPELLS,None
+264,Fallaji Archaeologist,CREATURES,None
+265,Fanatical Offering,OTHER SPELLS,None
+266,Fang Dragon,CREATURES,None
+267,Fanged Flames,OTHER SPELLS,STR
+268,Fangren Marauder,CREATURES,None
+269,Feed the Clan,SIDEBOARDS,None
+270,Ferocious Werefox,CREATURES,None
+271,Ferocity of the Hunt,OTHER SPELLS,None
+272,Fertile Ground,OTHER SPELLS,None
+273,Festival Crasher,CREATURES,None
+274,Fields of Strife,LANDS,None
+275,Fiery Cannonade,OTHER SPELLS,BW
+276,Fiery Temper,OTHER SPELLS,STR
+277,Filigree Familiar,CREATURES,None
+278,Fire / Ice,OTHER SPELLS,STR
+279,Firebending Lesson,SIDEBOARDS,STR
+280,Fireblast,OTHER SPELLS,STR
+281,First Day of Class,OTHER SPELLS,None
+282,First-Sphere Gargantua,CREATURES,None
+283,Flame Jab,OTHER SPELLS,STR
+284,Flaring Pain,OTHER SPELLS,None
+285,Flash Flood,SIDEBOARDS,A
+286,Flash of Defiance,SIDEBOARDS,None
+287,Fling,OTHER SPELLS,STR
+288,Floating-Dream Zubera,SIDEBOARDS,None
+289,Flood,SIDEBOARDS,None
+290,Focus the Mind,OTHER SPELLS,None
+291,Fog,OTHER SPELLS,None
+292,Foil,OTHER SPELLS,A
+293,Foot Ninjas,CREATURES,None
+294,Forbidden Alchemy,OTHER SPELLS,None
+295,Force Spike,OTHER SPELLS,A
+296,Foreboding Landscape,LANDS,None
+297,Forest,LANDS,None
+298,Fortress Kin-Guard,CREATURES,None
+299,Foundry Inspector,CREATURES,None
+300,Freed from the Real,OTHER SPELLS,None
+301,Frogmite,CREATURES,None
+302,Fruit of Tizerus,OTHER SPELLS,None
+303,Fume Spitter,SIDEBOARDS,STR
+304,Fungal Infection,OTHER SPELLS,STR
+305,Fyndhorn Elves,CREATURES,None
+306,Galvanic Alchemist,CREATURES,None
+307,Galvanic Blast,OTHER SPELLS,STR
+308,Galvanic Discharge,OTHER SPELLS,STR
+309,Gatecreeper Vine,CREATURES,None
+310,Gearseeker Serpent,CREATURES,None
+311,Gemhide Sliver,CREATURES,None
+312,Gene Pollinator,CREATURES,None
+313,Generous Ent,CREATURES,None
+314,Geothermal Bog,LANDS,None
+315,Geothermal Crevice,LANDS,None
+316,Ghitu Amplifier,CREATURES,None
+317,Ghostly Flicker,OTHER SPELLS,None
+318,Giant's Boulder,OTHER SPELLS,STR
+319,Gigadrowse,SIDEBOARDS,None
+320,Gigantosaurus,CREATURES,None
+321,Gingerbread Cabin,LANDS,None
+322,Gingerbrute,CREATURES,None
+323,Gixian Infiltrator,CREATURES,None
+324,Glacial Floodplain,LANDS,None
+325,Gladecover Scout,CREATURES,None
+326,Gleeful Sabotage,SIDEBOARDS,STR
+327,Glimpse the Impossible,OTHER SPELLS,None
+328,Glint Hawk,CREATURES,None
+329,Glistener Elf,CREATURES,None
+330,Glistener Seer,CREATURES,None
+331,Glorious Decay,OTHER SPELLS,None
+332,Glorious Gale,OTHER SPELLS,A
+333,Gnaw to the Bone,OTHER SPELLS,None
+334,Go Forth,OTHER SPELLS,None
+335,Go for the Throat,OTHER SPELLS,STR
+336,Goblin Anarchomancer,CREATURES,None
+337,Goblin Bushwhacker,CREATURES,None
+338,Goblin Gaveleer,CREATURES,None
+339,Goblin Matron,CREATURES,None
+340,Goblin Tomb Raider,CREATURES,None
+341,Goblin Wizardry,SIDEBOARDS,None
+342,God-Pharaoh's Faithful,CREATURES,None
+343,Gods Willing,OTHER SPELLS,None
+344,Goldmire Bridge,LANDS,None
+345,Golem Foundry,OTHER SPELLS,None
+346,Golgari Rot Farm,LANDS,None
+347,Goliath Paladin,CREATURES,None
+348,Gorilla Shaman,CREATURES,STR
+349,Grab the Prize,OTHER SPELLS,None
+350,Granger Guildmage,SIDEBOARDS,None
+351,Grapple with Death,OTHER SPELLS,None
+352,Gray Merchant of Asphodel,CREATURES,None
+353,Great Furnace,LANDS,None
+354,Greatsword of Tyr,OTHER SPELLS,None
+355,Greedy Freebooter,CREATURES,None
+356,Greenhouse Propagator,CREATURES,None
+357,Grim Bauble,OTHER SPELLS,STR
+358,Grim Harvest,OTHER SPELLS,None
+359,Growth Spiral,OTHER SPELLS,None
+360,Gruul Turf,LANDS,None
+361,Guardian Naga,SIDEBOARDS,None
+362,Guardian of the Guildpact,CREATURES,None
+363,Guardians' Pledge,OTHER SPELLS,None
+364,Guerrilla Gorilla,SIDEBOARDS,None
+365,Gurmag Angler,CREATURES,None
+366,Gut Shot,SIDEBOARDS,STR
+367,Guttersnipe,CREATURES,None
+368,HYDRA Assault Robot,CREATURES,None
+369,Halimar Depths,LANDS,None
+370,Hallow,SIDEBOARDS,None
+371,Halo Hopper,CREATURES,None
+372,Hard Evidence,OTHER SPELLS,None
+373,Harmonious Emergence,OTHER SPELLS,None
+374,Harrier Strix,CREATURES,None
+375,Haunted Fengraf,LANDS,None
+376,Haunted Mire,LANDS,None
+377,Hawkeye's Bow,OTHER SPELLS,None
+378,Healer of the Glade,SIDEBOARDS,None
+379,Heap Gate,LANDS,None
+380,Heaped Harvest,OTHER SPELLS,None
+381,Heart Sliver,CREATURES,None
+382,Heliod's Pilgrim,CREATURES,None
+383,Heritage Reclamation,OTHER SPELLS,STR
+384,Hickory Woodlot,LANDS,None
+385,Hidden Grotto,LANDS,None
+386,Highland Forest,LANDS,None
+387,Highway Robbery,OTHER SPELLS,None
+388,Hinterland Sanctifier,CREATURES,None
+389,Hissing Iguanar,CREATURES,None
+390,Holdout Settlement,LANDS,None
+391,Holy Light,SIDEBOARDS,BW
+392,Honorable Scout,SIDEBOARDS,None
+393,Hoodwink,SIDEBOARDS,None
+394,Hopeless Nightmare,OTHER SPELLS,HD
+395,Horrific Assault,OTHER SPELLS,STR
+396,How to Start a Riot,SIDEBOARDS,None
+397,Humbling Elder,CREATURES,None
+398,Hunger of the Howlpack,OTHER SPELLS,None
+399,Hunter Sliver,CREATURES,None
+400,Hunter's Blowgun,OTHER SPELLS,STR
+401,Hydroblast,SIDEBOARDS,A
+402,Hyena Umbra,OTHER SPELLS,None
+403,Icatian Javelineers,CREATURES,STR
+404,Ice Tunnel,LANDS,None
+405,Icequake,SIDEBOARDS,STR
+406,Ichor Wellspring,OTHER SPELLS,None
+407,Ichorclaw Myr,CREATURES,None
+408,Idyllic Beachfront,LANDS,None
+409,Idyllic Grange,LANDS,None
+410,Illvoi Galeblade,CREATURES,None
+411,Impact Tremors,OTHER SPELLS,None
+412,Impulse,OTHER SPELLS,None
+413,Infectious Inquiry,OTHER SPELLS,HD
+414,Infestation Sage,CREATURES,None
+415,Inside Out,OTHER SPELLS,None
+416,Inspired Tethermage,CREATURES,None
+417,Inspiring Overseer,CREATURES,None
+418,Instant Ramen,OTHER SPELLS,None
+419,Inventor's Axe,OTHER SPELLS,None
+420,Island,LANDS,None
+421,It'll Quench Ya!,SIDEBOARDS,A
+422,Jace's Erasure,OTHER SPELLS,None
+423,Jace's Phantasm,SIDEBOARDS,None
+424,Jack-o'-Lantern,OTHER SPELLS,GH
+425,Jagged Barrens,LANDS,None
+426,Jaspera Sentinel,CREATURES,None
+427,Jewel Thief,CREATURES,None
+428,Jolted Awake,OTHER SPELLS,None
+429,Journey to Nowhere,OTHER SPELLS,STR
+430,Kabira Crossroads,LANDS,None
+431,Kaervek's Torch,OTHER SPELLS,STR
+432,Kami of Jealous Thirst,CREATURES,None
+433,Keep Safe,OTHER SPELLS,A
+434,Kenku Artificer,CREATURES,None
+435,Kessig Flamebreather,CREATURES,None
+436,Khalni Garden,LANDS,None
+437,Kiln Fiend,CREATURES,None
+438,Kitchen Imp,CREATURES,None
+439,Knight of Wundagore,CREATURES,None
+440,Kor Skyfisher,CREATURES,None
+441,Krark-Clan Shaman,CREATURES,BW
+442,Kruphix's Insight,OTHER SPELLS,None
+443,Lagonna-Band Trailblazer,CREATURES,None
+444,Land Grant,OTHER SPELLS,None
+445,Last Breath,SIDEBOARDS,STR
+446,Late to Dinner,OTHER SPELLS,None
+447,Lava Dart,OTHER SPELLS,STR
+448,Lava Spike,OTHER SPELLS,None
+449,Lead the Stampede,OTHER SPELLS,None
+450,Lembas,OTHER SPELLS,None
+451,"Leonardo, Big Brother",CREATURES,None
+452,Leonin Elder,SIDEBOARDS,None
+453,Leonin Squire,CREATURES,None
+454,Life Goes On,SIDEBOARDS,None
+455,Lifelink,OTHER SPELLS,None
+456,Lightning Axe,OTHER SPELLS,STR
+457,Lightning Bolt,OTHER SPELLS,STR
+458,Lignify,SIDEBOARDS,STR
+459,Llanowar Augur,CREATURES,None
+460,Llanowar Elves,CREATURES,None
+461,Llanowar Visionary,CREATURES,None
+462,Loam Dryad,CREATURES,None
+463,Lone Missionary,SIDEBOARDS,None
+464,Lonely Arroyo,LANDS,None
+465,Longstalk Brawl,OTHER SPELLS,STR
+466,Loran's Escape,OTHER SPELLS,None
+467,Lose Focus,OTHER SPELLS,A
+468,Lotleth Giant,CREATURES,None
+469,Lotus Petal,OTHER SPELLS,None
+470,Lunarch Veteran,CREATURES,None
+471,Lys Alana Huntmaster,CREATURES,None
+472,Lórien Revealed,OTHER SPELLS,None
+473,Maelstrom Colossus,CREATURES,None
+474,Maestros Theater,LANDS,None
+475,Magitek Infantry,CREATURES,None
+476,Magmakin Artillerist,CREATURES,None
+477,Makeshift Munitions,OTHER SPELLS,STR
+478,Malevolent Rumble,OTHER SPELLS,None
+479,Mana Leak,OTHER SPELLS,A
+480,Manamorphose,OTHER SPELLS,None
+481,Manor Gate,LANDS,None
+482,Marauding Blight-Priest,CREATURES,None
+483,Mardu Devotee,CREATURES,None
+484,Martyr of Ashes,SIDEBOARDS,BW
+485,Martyr of Sands,SIDEBOARDS,None
+486,Martyr's Soul,CREATURES,None
+487,Mask of Law and Grace,OTHER SPELLS,None
+488,Masked Meower,CREATURES,None
+489,Masked Vandal,CREATURES,STR
+490,Maul Splicer,CREATURES,None
+491,Meat Locker / Drowned Diner,OTHER SPELLS,None
+492,Mechanized Ninja Cavalry,CREATURES,None
+493,Meditation Pools,LANDS,None
+494,Meeting of Minds,OTHER SPELLS,None
+495,Melded Moxite,OTHER SPELLS,None
+496,Memory Lapse,OTHER SPELLS,A
+497,Mental Note,OTHER SPELLS,None
+498,Merchant Scroll,OTHER SPELLS,None
+499,Mesmeric Fiend,CREATURES,HD
+500,Metallic Rebuke,OTHER SPELLS,A
+501,Might of Old Krosa,OTHER SPELLS,None
+502,Militia Bugler,CREATURES,None
+503,Mind Drain,SIDEBOARDS,HD
+504,Mind Extraction,SIDEBOARDS,HD
+505,Mirran Banesplitter,OTHER SPELLS,None
+506,Mirrorshell Crab,CREATURES,A
+507,Mistvault Bridge,LANDS,None
+508,Mnemonic Wall,CREATURES,None
+509,Moldervine Cloak,OTHER SPELLS,None
+510,Molten Gatekeeper,CREATURES,None
+511,Molten Rain,SIDEBOARDS,STR
+512,Molten Tributary,LANDS,None
+513,Moment's Peace,OTHER SPELLS,None
+514,Momentary Blink,SIDEBOARDS,None
+515,Monstrous Emergence,SIDEBOARDS,STR
+516,Moon-Circuit Hacker,CREATURES,None
+517,Mortician Beetle,CREATURES,None
+518,Mortuary Mire,LANDS,None
+519,Mothdust Changeling,CREATURES,None
+520,Mountain,LANDS,None
+521,Muddle the Mixture,OTHER SPELLS,A
+522,Mukotai Ambusher,CREATURES,None
+523,Mulldrifter,CREATURES,None
+524,Murmuring Mystic,CREATURES,None
+525,Muscle Sliver,CREATURES,None
+526,Mutagenic Growth,OTHER SPELLS,None
+527,Mwonvuli Acid-Moss,OTHER SPELLS,STR
+528,Myr Enforcer,CREATURES,None
+529,Myr Kinsmith,CREATURES,None
+530,Myr Retriever,CREATURES,None
+531,Mysidian Elder,CREATURES,None
+532,Mystic Remora,SIDEBOARDS,None
+533,Mystical Teachings,OTHER SPELLS,None
+534,Nature's Claim,SIDEBOARDS,STR
+535,Nausea,SIDEBOARDS,BW
+536,Navigation Orb,OTHER SPELLS,None
+537,Navigator's Compass,OTHER SPELLS,None
+538,Negate,OTHER SPELLS,A
+539,Nest Invader,CREATURES,None
+540,Nested Shambler,CREATURES,None
+541,Nettle Sentinel,CREATURES,None
+542,Nezumi Linkbreaker,CREATURES,None
+543,Night Market,LANDS,None
+544,Night's Whisper,OTHER SPELLS,None
+545,Nihil Spellbomb,OTHER SPELLS,GH
+546,Ninja of the Deep Hours,CREATURES,None
+547,Novice Inspector,CREATURES,None
+548,Nutrient Block,OTHER SPELLS,None
+549,Nylea's Disciple,SIDEBOARDS,None
+550,Nyxborn Hydra,CREATURES,None
+551,Oblivion Ring,OTHER SPELLS,STR
+552,Obscura Storefront,LANDS,None
+553,Obsidian Acolyte,SIDEBOARDS,None
+554,Octopus Form,SIDEBOARDS,None
+555,Of One Mind,OTHER SPELLS,None
+556,Okiba Reckoner Raid,OTHER SPELLS,HD
+557,Okiba-Gang Shinobi,CREATURES,HD
+558,Old Thrush,CREATURES,None
+559,Oliphaunt,CREATURES,None
+560,Omen of the Dead,OTHER SPELLS,None
+561,Oona's Grace,SIDEBOARDS,None
+562,Open the Gates,OTHER SPELLS,None
+563,Opt,OTHER SPELLS,None
+564,Origin of Metalbending,SIDEBOARDS,STR
+565,Ornithopter,CREATURES,None
+566,Orochi Leafcaller,CREATURES,None
+567,"Oroku Saki, Shredder Rising",CREATURES,None
+568,Orzhov Basilica,LANDS,None
+569,Orzhov Guildgate,LANDS,None
+570,Oubliette,OTHER SPELLS,STR
+571,Outlaw Medic,CREATURES,None
+572,Overgrown Battlement,CREATURES,None
+573,Pactdoll Terror,CREATURES,None
+574,Palace Sentinels,CREATURES,None
+575,Paradox Gardens,LANDS,None
+576,Patient Instructor,CREATURES,None
+577,Patrician's Scorn,SIDEBOARDS,BW
+578,Peach Garden Oath,SIDEBOARDS,None
+579,Peat Bog,LANDS,None
+580,Pegasus Guardian,CREATURES,None
+581,Pentad Prism,OTHER SPELLS,None
+582,Perilous Landscape,LANDS,None
+583,Persistent Petitioners,CREATURES,None
+584,Pest Mascot,CREATURES,None
+585,Pestilence,OTHER SPELLS,BW
+586,Pet Avengers,SIDEBOARDS,None
+587,Phyrexian Walker,CREATURES,None
+588,Pick Your Poison,SIDEBOARDS,STR
+589,Pieces of the Puzzle,OTHER SPELLS,None
+590,Pilfer,SIDEBOARDS,HD
+591,Pinnacle Kill-Ship,OTHER SPELLS,STR
+592,Piracy Charm,OTHER SPELLS,HD
+593,Pirate's Pillage,OTHER SPELLS,None
+594,Pixie Illusionist,CREATURES,None
+595,Plains,LANDS,None
+596,Plated Sliver,CREATURES,None
+597,Plunder the Trollshaws,OTHER SPELLS,None
+598,Polluted Mire,LANDS,None
+599,Pond Prophet,CREATURES,None
+600,Ponder,OTHER SPELLS,None
+601,Predatory Sliver,CREATURES,None
+602,Preordain,OTHER SPELLS,None
+603,Priest of Titania,CREATURES,None
+604,Primordial Pachyderm,SIDEBOARDS,None
+605,Prismatic Strands,OTHER SPELLS,None
+606,Prohibit,OTHER SPELLS,A
+607,Prologue to Phyresis,OTHER SPELLS,None
+608,Prophetic Prism,OTHER SPELLS,None
+609,Pulse of Murasa,OTHER SPELLS,None
+610,Pursue the Past,OTHER SPELLS,None
+611,Pyroblast,SIDEBOARDS,A
+612,Quandrix Campus,LANDS,None
+613,Quick Sliver,SIDEBOARDS,None
+614,Quirion Ranger,CREATURES,None
+615,Radiant Fountain,LANDS,None
+616,Radiant Grove,LANDS,None
+617,Raffine's Informant,CREATURES,None
+618,Ragged Short Spear,OTHER SPELLS,None
+619,Raise the Alarm,OTHER SPELLS,None
+620,Rakdos Carnarium,LANDS,None
+621,Rally at the Hornburg,OTHER SPELLS,None
+622,Rally the Peasants,OTHER SPELLS,None
+623,Ram Through,OTHER SPELLS,STR
+624,Ramosian Rally,OTHER SPELLS,None
+625,Rancid Earth,OTHER SPELLS,STR
+626,Rancor,OTHER SPELLS,None
+627,"Raphael, Tough Turtle",CREATURES,None
+628,Raven of Fell Omens,CREATURES,None
+629,Raven's Crime,OTHER SPELLS,HD
+630,Ravening Warg,CREATURES,None
+631,Raze,SIDEBOARDS,STR
+632,Razortide Bridge,LANDS,None
+633,Razortrap Gorge,LANDS,None
+634,Reaping the Graves,OTHER SPELLS,None
+635,Reckless Charge,OTHER SPELLS,None
+636,Reckless Fireweaver,CREATURES,None
+637,Reckless Impulse,OTHER SPELLS,None
+638,Reckless Lackey,CREATURES,None
+639,Reckoner's Bargain,OTHER SPELLS,None
+640,Recommission,OTHER SPELLS,None
+641,Red Elemental Blast,SIDEBOARDS,A
+642,Refurbished Familiar,CREATURES,HD
+643,Relic of Progenitus,OTHER SPELLS,GH
+644,Remote Farm,LANDS,None
+645,Remote Isle,LANDS,None
+646,Remove Soul,OTHER SPELLS,A
+647,Respite,OTHER SPELLS,None
+648,Retraction Helix,OTHER SPELLS,None
+649,Return to Dust,SIDEBOARDS,STR
+650,Return to Nature,SIDEBOARDS,STR
+651,Reverent Silence,SIDEBOARDS,BW
+652,Revoke Existence,SIDEBOARDS,STR
+653,Rewind,OTHER SPELLS,A
+654,Rhystic Circle,SIDEBOARDS,None
+655,Rhystic Study,OTHER SPELLS,None
+656,Ride's End,OTHER SPELLS,STR
+657,Rift Sower,CREATURES,None
+658,Rime Tender,CREATURES,None
+659,Rimewood Falls,LANDS,None
+660,Rite of Consumption,OTHER SPELLS,None
+661,Rite of Flame,OTHER SPELLS,None
+662,Rites of Initiation,SIDEBOARDS,None
+663,Rolling Thunder,OTHER SPELLS,STR
+664,Rooftop Percher,CREATURES,None
+665,Rotten Reunion,SIDEBOARDS,GH
+666,Rubblebelt Maverick,CREATURES,None
+667,Rumble Arena,LANDS,None
+668,Rush of Knowledge,OTHER SPELLS,None
+669,Rustvale Bridge,LANDS,None
+670,Sacred Cat,CREATURES,None
+671,Sadistic Glee,OTHER SPELLS,None
+672,Sagu Wildling,CREATURES,None
+673,Salt Road Packbeast,CREATURES,None
+674,Sandstone Needle,LANDS,None
+675,Sandstorm,SIDEBOARDS,BW
+676,Sandstorm Eidolon,CREATURES,None
+677,Saprazzan Skerry,LANDS,None
+678,Sarpadian Simulacrum,CREATURES,None
+679,Saruli Caretaker,CREATURES,None
+680,Satyr Wayfinder,CREATURES,None
+681,Sazacap's Brew,OTHER SPELLS,None
+682,Scale of Chiss-Goria,OTHER SPELLS,None
+683,Scattershot,SIDEBOARDS,BW
+684,Scattershot Archer,CREATURES,BW
+685,Scholar of Athreos,CREATURES,None
+686,Scour from Existence,OTHER SPELLS,STR
+687,Scoured Barrens,LANDS,None
+688,Scrapwork Mutt,CREATURES,None
+689,Sculptor of Winter,CREATURES,None
+690,Sea Gate Oracle,CREATURES,None
+691,Sea's Claim,SIDEBOARDS,STR
+692,Seal of Fire,OTHER SPELLS,STR
+693,Seal of Primordium,SIDEBOARDS,STR
+694,Seal of Strength,SIDEBOARDS,None
+695,Search Party Captain,CREATURES,None
+696,Searing Blaze,OTHER SPELLS,STR
+697,Searing Blood,SIDEBOARDS,STR
+698,Seat of the Synod,LANDS,None
+699,Secret Door,CREATURES,None
+700,Seeker of the Way,CREATURES,None
+701,Seething Landscape,LANDS,None
+702,Seething Song,OTHER SPELLS,None
+703,Seize the Storm,OTHER SPELLS,None
+704,Sejiri Steppe,LANDS,None
+705,Selesnya Guildgate,LANDS,None
+706,Sentinel Sliver,CREATURES,None
+707,Sentinel's Eyes,OTHER SPELLS,None
+708,Serene Heart,SIDEBOARDS,BW
+709,Serrated Arrows,OTHER SPELLS,STR
+710,Serrated Scorpion,CREATURES,None
+711,Servant of the Scale,CREATURES,None
+712,Setessan Training,OTHER SPELLS,None
+713,Sewer-veillance Cam,OTHER SPELLS,None
+714,Shambling Ghast,CREATURES,None
+715,Shattered Acolyte,CREATURES,None
+716,Shattered Landscape,LANDS,None
+717,Shattering Blow,SIDEBOARDS,STR
+718,Sheltering Landscape,LANDS,None
+719,Shenanigans,SIDEBOARDS,STR
+720,Shield of Duty and Reason,SIDEBOARDS,None
+721,Shield-Wall Sentinel,CREATURES,None
+722,Shinen of Life's Roar,CREATURES,None
+723,Shred Memory,SIDEBOARDS,GH
+724,Shrivel,SIDEBOARDS,BW
+725,Sidewinder Sliver,CREATURES,None
+726,Siege Smash,OTHER SPELLS,STR
+727,Sign in Blood,OTHER SPELLS,None
+728,Silhana Ledgewalker,CREATURES,None
+729,Silverbluff Bridge,LANDS,None
+730,Silverquill Campus,LANDS,None
+731,Simian Spirit Guide,CREATURES,None
+732,Simic Growth Chamber,LANDS,None
+733,Sinew Sliver,CREATURES,None
+734,Singe,SIDEBOARDS,STR
+735,Sinister Hideout,LANDS,None
+736,Skarrgan Pit-Skulk,CREATURES,None
+737,Skewer the Critics,OTHER SPELLS,STR
+738,Skred,OTHER SPELLS,STR
+739,Skyward Spider,CREATURES,None
+740,Slagwoods Bridge,LANDS,None
+741,Sleep of the Dead,OTHER SPELLS,None
+742,Slippery Bogle,CREATURES,None
+743,Slippery Karst,LANDS,None
+744,Smash to Dust,SIDEBOARDS,BW
+745,Smash to Smithereens,OTHER SPELLS,STR
+746,"Smaug, the Great Calamity",CREATURES,None
+747,Smell Fear,OTHER SPELLS,STR
+748,Smoke Shroud,OTHER SPELLS,None
+749,Snakeskin Veil,OTHER SPELLS,None
+750,Snap,OTHER SPELLS,None
+751,Sneaky Snacker,CREATURES,None
+752,Snow-Covered Forest,LANDS,None
+753,Snow-Covered Island,LANDS,None
+754,Snow-Covered Mountain,LANDS,None
+755,Snow-Covered Plains,LANDS,None
+756,Snow-Covered Swamp,LANDS,None
+757,Snuff Out,OTHER SPELLS,STR
+758,Solve for Disappointment,SIDEBOARDS,A
+759,Soul Manipulation,SIDEBOARDS,A
+760,Soul Reap,OTHER SPELLS,STR
+761,Soul Warden,CREATURES,None
+762,Soul's Attendant,CREATURES,None
+763,Soul-Guide Lantern,OTHER SPELLS,GH
+764,Sovereign's Bite,OTHER SPELLS,None
+765,Spare from Evil,OTHER SPELLS,None
+766,Spell Pierce,OTHER SPELLS,A
+767,Spellstutter Sprite,CREATURES,A
+768,Spider Manifestation,CREATURES,None
+769,Spider Umbra,OTHER SPELLS,None
+770,"Spider-Man, Web-Slinger",CREATURES,None
+771,Spidersilk Armor,SIDEBOARDS,None
+772,Spinewoods Paladin,CREATURES,None
+773,Spinning Darkness,OTHER SPELLS,STR
+774,Spirit Link,OTHER SPELLS,None
+775,Spirit Mascot,CREATURES,None
+776,Spore Frog,SIDEBOARDS,None
+777,Spreading Seas,SIDEBOARDS,STR
+778,Springleaf Drum,OTHER SPELLS,None
+779,Sprout Swarm,OTHER SPELLS,None
+780,Squadron Hawk,CREATURES,None
+781,Squire's Devotion,OTHER SPELLS,None
+782,Standard Bearer,SIDEBOARDS,None
+783,Steady Progress,OTHER SPELLS,None
+784,Steel Sabotage,SIDEBOARDS,A
+785,Steelfin Whale,CREATURES,None
+786,Stickytongue Sentinel,CREATURES,None
+787,Stinkweed Imp,CREATURES,None
+788,Stone Rain,OTHER SPELLS,STR
+789,Stonehorn Dignitary,CREATURES,None
+790,Stormshriek Feral,CREATURES,None
+791,Stream of Thought,OTHER SPELLS,None
+792,Striking Sliver,CREATURES,None
+793,Structural Distortion,OTHER SPELLS,STR
+794,Suffocating Fumes,OTHER SPELLS,BW
+795,Sulfurous Mire,LANDS,None
+796,Sunken City,OTHER SPELLS,None
+797,Sunlit Marsh,LANDS,None
+798,Sunscape Familiar,CREATURES,None
+799,Sunshower Druid,CREATURES,None
+800,Supernatural Stamina,OTHER SPELLS,None
+801,Suplex,OTHER SPELLS,STR
+802,Surveillance Room,LANDS,None
+803,Survivors' Encampment,LANDS,None
+804,Suture Priest,SIDEBOARDS,None
+805,Swamp,LANDS,None
+806,Swirling Sandstorm,SIDEBOARDS,BW
+807,Sylvok Lifestaff,SIDEBOARDS,None
+808,Tamiyo's Safekeeping,OTHER SPELLS,None
+809,Tangle,OTHER SPELLS,None
+810,Tangled Islet,LANDS,None
+811,Tanglepool Bridge,LANDS,None
+812,Taunting Elf,CREATURES,None
+813,Teach by Example,OTHER SPELLS,None
+814,Tectonic Hazard,OTHER SPELLS,BW
+815,Temporal Intervention,SIDEBOARDS,HD
+816,Temur Battle Rage,OTHER SPELLS,None
+817,Tendrils of Corruption,SIDEBOARDS,STR
+818,Terminate,OTHER SPELLS,STR
+819,Thermo-Alchemist,CREATURES,None
+820,Thermokarst,OTHER SPELLS,STR
+821,Think Twice,OTHER SPELLS,None
+822,Third Path Savant,CREATURES,None
+823,Thirsting Roots,OTHER SPELLS,None
+824,Thorn of the Black Rose,CREATURES,None
+825,Thornscape Familiar,CREATURES,None
+826,Thornwood Falls,LANDS,None
+827,Thought Scour,OTHER SPELLS,None
+828,Thoughtcast,OTHER SPELLS,None
+829,Thraben Charm,OTHER SPELLS,STR
+830,Thraben Inspector,CREATURES,None
+831,Thrilling Discovery,OTHER SPELLS,None
+832,Timberwatch Elf,CREATURES,None
+833,Tinder Farm,LANDS,None
+834,Tinder Wall,CREATURES,None
+835,Tireless Tribe,CREATURES,None
+836,Tithing Blade,OTHER SPELLS,STR
+837,Tolarian Terror,CREATURES,None
+838,Tooth of Chiss-Goria,OTHER SPELLS,None
+839,Torch the Tower,OTHER SPELLS,STR
+840,Tormod's Crypt,OTHER SPELLS,GH
+841,Town Greeter,CREATURES,None
+842,Toxin Analysis,OTHER SPELLS,None
+843,Tragic Slip,OTHER SPELLS,STR
+844,Tranquil Landscape,LANDS,None
+845,Tranquility,SIDEBOARDS,BW
+846,Tree of Tales,LANDS,None
+847,Trespasser's Curse,SIDEBOARDS,None
+848,Trinket Mage,CREATURES,None
+849,Troll of Khazad-dûm,CREATURES,None
+850,Troublemaker Ouphe,CREATURES,STR
+851,Tuktuk Rubblefort,CREATURES,None
+852,Twinned Vision,OTHER SPELLS,None
+853,Twisted Landscape,LANDS,None
+854,Tyrant's Choice,OTHER SPELLS,HD
+855,Ulamog's Crusher,CREATURES,None
+856,Ultimate Alliance,OTHER SPELLS,None
+857,Unable to Scream,OTHER SPELLS,STR
+858,Undergrowth Leopard,SIDEBOARDS,STR
+859,Underworld Rage-Hound,CREATURES,None
+860,Undo,SIDEBOARDS,None
+861,Unearth,OTHER SPELLS,None
+862,Unending Whisper,OTHER SPELLS,None
+863,Unexpected Assistance,OTHER SPELLS,None
+864,Unexpected Fangs,OTHER SPELLS,None
+865,Unfathomable Truths,OTHER SPELLS,None
+866,Unflinching Hortimancer,CREATURES,None
+867,Union of the Third Path,OTHER SPELLS,None
+868,Universal Automaton,CREATURES,None
+869,Unmake,OTHER SPELLS,STR
+870,Unscrupulous Agent,CREATURES,HD
+871,Unwind,OTHER SPELLS,A
+872,Urborg Repossession,OTHER SPELLS,None
+873,Urza's Mine,LANDS,None
+874,Urza's Power Plant,LANDS,None
+875,Urza's Tower,LANDS,None
+876,Utopia Sprawl,OTHER SPELLS,None
+877,Utrom Monitor,CREATURES,None
+878,Utrom Scientists,CREATURES,None
+879,Valakut Invoker,CREATURES,STR
+880,Vampire Sovereign,CREATURES,None
+881,Vampire's Kiss,OTHER SPELLS,None
+882,Vampiric Link,SIDEBOARDS,None
+883,Vandalblast,OTHER SPELLS,STR
+884,Vapor Snag,OTHER SPELLS,None
+885,Vault of Whispers,LANDS,None
+886,Vedalken Engineer,CREATURES,None
+887,Village Rites,OTHER SPELLS,None
+888,Vines of Vastwood,OTHER SPELLS,None
+889,Viridian Longbow,OTHER SPELLS,STR
+890,Virulent Sliver,CREATURES,None
+891,Virus Beetle,CREATURES,HD
+892,Vision of Love,OTHER SPELLS,None
+893,Visionary's Dance,OTHER SPELLS,None
+894,Vitality Charm,SIDEBOARDS,None
+895,Vitalize,OTHER SPELLS,None
+896,Vitu-Ghazi Inspector,SIDEBOARDS,None
+897,Vivisurgeon's Insight,OTHER SPELLS,None
+898,Volatile Fjord,LANDS,None
+899,Voldaren Epicure,CREATURES,None
+900,Voracious Varmint,CREATURES,STR
+901,Wall of Roots,CREATURES,None
+902,Warped Tusker,CREATURES,None
+903,Waterbending Lesson,SIDEBOARDS,None
+904,Weather the Storm,OTHER SPELLS,None
+905,Webweaver Changeling,SIDEBOARDS,None
+906,Wellwisher,CREATURES,None
+907,Whispersilk Cloak,OTHER SPELLS,None
+908,Whitemane Lion,CREATURES,None
+909,Whiteout,OTHER SPELLS,None
+910,Wild Growth,OTHER SPELLS,None
+911,Wind-Scarred Crag,LANDS,None
+912,Winding Way,OTHER SPELLS,None
+913,Winged Sliver,CREATURES,None
+914,Winter Eladrin,SIDEBOARDS,None
+915,Wirewood Herald,CREATURES,None
+916,Witch's Cottage,LANDS,None
+917,Witch's Mark,OTHER SPELLS,None
+918,Wooded Ridgeline,LANDS,None
+919,Woodland Chasm,LANDS,None
+920,Wrap in Vigor,SIDEBOARDS,None
+921,Wrenn's Resolve,OTHER SPELLS,None
+922,Wretched Gryff,CREATURES,None
+923,Writ of Passage,OTHER SPELLS,None
+924,Writhing Chrysalis,CREATURES,None
+925,You Meet in a Tavern,OTHER SPELLS,None
