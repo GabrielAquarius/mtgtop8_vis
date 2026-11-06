@@ -1,0 +1,72 @@
+================================================================================
+GLOSSÁRIO DE TERMOS - MAGIC: THE GATHERING (FORMATO PAUPER)
+Projeto de Visualização de Dados
+================================================================================
+
+1. CONCEITOS GERAIS E ESTRUTURA DO JOGO
+--------------------------------------------------------------------------------
+- Magic: The Gathering (MTG): Jogo de cartas colecionáveis e estratégicas (TCG) onde dois ou mais jogadores atuam como magos (Planeswalkers) utilizando baralhos personalizados para reduzir os pontos de vida do oponente de 20 a 0 (ou vencer por condições alternativas).
+
+- Formato Pauper: Um formato competitivo oficial de Magic onde apenas cartas que já foram impressas na raridade "Comum" (a mais básica do jogo) são permitidas. Apesar de usar apenas cartas comuns, possui um nível de poder e complexidade estratégica altíssimo.
+
+- Deck (ou Baralho): O conjunto de cartas que um jogador leva para a partida. É dividido em duas partes:
+  * Maindeck (Deck Principal): Composto por no mínimo 60 cartas, usado obrigatoriamente na primeira partida de uma série (Game 1).
+  * Sideboard (Deck Reserva): Composto por até 15 cartas extras. Entre a primeira, segunda e terceira partidas de um confronto (melhor de 3), os jogadores podem trocar cartas do Maindeck por cartas do Sideboard para se adaptar especificamente contra a estratégia do oponente.
+
+- Metagame (ou "Meta"): É o "jogo além do jogo". Refere-se ao panorama competitivo atual de um formato: 
+    * quais baralhos estão sendo mais utilizados nos campeonatos;
+    * quais têm a maior taxa de vitória; 
+    * e como os jogadores estão escolhendo suas cartas para vencer os decks mais populares do momento.
+
+
+2. ARQUÉTIPOS E MACRO-CATEGORIAS
+--------------------------------------------------------------------------------
+- Arquétipo (Archetype): É o modelo ou "identidade" de um baralho, definido pelo seu plano de jogo e pelas cartas principais que utiliza (ex: "Affinity", "Burn", "Dimir Control"). Mesmo que dois jogadores mudem 3 ou 4 cartas em suas listas, se a base e a estratégia forem as mesmas, ambos pertencem ao mesmo arquétipo.
+
+- Macro-Arquétipos: A classificação mais ampla do estilo de jogo de um baralho. No MTGTop8, divide-se em três grandes pilares:
+  * AGGRO (Agressivo): Baralhos focados em velocidade e pressão constante. Usam criaturas de custo baixo e magias de dano direto para zerar a vida do oponente o mais rápido possível, antes que ele consiga se defender.
+  * CONTROL (Controle): Baralhos focados em defesa, atrito e vantagem de recursos no longo prazo. Eles anulam, destroem ou atrasam as ameaças do oponente nos primeiros turnos para dominar a partida mais tarde, quando o adversário já ficou sem cartas na mão.
+  * COMBO (Combinação): Baralhos focados na sinergia específica entre duas ou mais cartas que, quando juntadas na mesa ou no cemitério, geram um efeito explosivo ou um loop infinito que vence a partida instantaneamente.
+
+
+3. CATEGORIAS TÁTICAS E DE AMEAÇAS (THREAT TYPES)
+--------------------------------------------------------------------------------
+Classificação criada neste projeto para identificar como os decks interagem e neutralizam os planos do adversário:
+
+- Single Target Removal (STR) - Remoção Pontual:
+  Cartas cuja função é eliminar uma única ameaça específica (dando "alvo" / target) na mesa do oponente. Isso inclui destruir criaturas, causar dano letal a um alvo, exilar encantamentos/artefatos ou destruir um terreno específico.
+  * Exemplos: Lightning Bolt, Cast Down, Snuff Out, Dust to Dust.
+
+- Board Wipe (BW) - Remoção em Massa / Limpeza de Mesa:
+  Cartas que afetam toda a mesa simultaneamente (sem precisar escolher apenas um alvo). São usadas para destruir ou dar dano/penalidades a várias criaturas de uma só vez, recuperando o controle contra baralhos que espalham muitas peças no campo.
+  * Exemplos: Breath Weapon, Krark-Clan Shaman, Crypt Rats, Arms of Hadar.
+
+- Graveyard Hate (GH) - Ódio ao Cemitério:
+  Cartas desenhadas especificamente para remover (exilar) cartas do cemitério do oponente. Como muitos decks do Pauper usam o cemitério como uma "segunda mão" para reutilizar magias ou reviver criaturas, o Graveyard Hate neutraliza essas estratégias.
+  * Exemplos: Relic of Progenitus, Bojuka Bog, Nihil Spellbomb, Faerie Macabre.
+
+- Hand Disruption (HD) - Disrupção de Mão / Descarte:
+  Cartas que atacam a mão do oponente, forçando-o a descartar recursos antes mesmo que ele tenha a chance de jogá-los na mesa. Muitas vezes também permitem olhar a mão do adversário, revelando todo o plano de jogo dele.
+  * Exemplos: Duress, Refurbished Familiar, Castigate, Okiba-Gang Shinobi.
+
+- Annulment (A) - Anulação:
+  Cartas (quase sempre da cor Azul, com exceções como Pyroblast) jogadas em resposta ao oponente no exato momento em que ele tenta conjurar uma mágica. A carta anulada nunca chega a entrar em campo ou fazer efeito, indo direto para o cemitério.
+  * Exemplos: Counterspell, Spellstutter Sprite, Hydroblast, Metallic Rebuke.
+
+
+4. MECÂNICAS E TERMOS DE REGRAS DO JOGO
+--------------------------------------------------------------------------------
+- Target (Alvo): Quando uma carta exige que você escolha especificamente qual criatura, jogador ou permanente receberá aquele efeito.
+
+- Destroy (Destruir): Remove uma carta do campo de batalha e a envia para o Cemitério (Graveyard) do seu dono.
+
+- Exile (Exilar): Remove uma carta do jogo (seja do campo de batalha, da mão ou do cemitério) e a envia para uma zona chamada "Exílio". Diferente de destruir (que manda para o cemitério, onde a carta ainda pode ser recuperada ou reutilizada), uma carta exilada praticamente não pode mais interagir com o restante da partida.
+
+- Graveyard (Cemitério): A pilha de descarte de cada jogador, para onde vão as criaturas mortas, terrenos destruídos e mágicas já utilizadas.
+
+- Counter (Termo com duplo sentido em inglês no Magic):
+  1. Verbo "Counter" (Anular / Counterar): O ato de impedir que uma mágica do oponente resolva (associado à categoria Annulment - A). Também usado na gíria "esse deck é um counter do outro" (significando que tem vantagem estratégica sobre o outro).
+  2. Substantivo "Counter" (Marcador / Contador): Pequenos marcadores colocados sobre uma carta para alterar permanentemente seus atributos ou acumular cargas: 
+  * Os mais comuns são os marcadores +1/+1 (que deixam a criatura mais forte); 
+  * ou marcadores -1/-1 / efeitos temporários de -X/-X, que reduzem o ataque e a vida da criatura; 
+    * OBS: se a resistência/vida de uma criatura chegar a 0 ou menos devido a efeitos negativos, ela morre instantaneamente, mesmo que seja indestrutível).
